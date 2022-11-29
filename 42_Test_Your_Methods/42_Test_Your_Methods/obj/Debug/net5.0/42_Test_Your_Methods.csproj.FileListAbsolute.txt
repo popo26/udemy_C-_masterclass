@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\bin\Debug\net5.0\42_Test_Your_Methods.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\bin\Debug\net5.0\42_Test_Your_Methods.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\bin\Debug\net5.0\42_Test_Your_Methods.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\bin\Debug\net5.0\42_Test_Your_Methods.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\bin\Debug\net5.0\42_Test_Your_Methods.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\bin\Debug\net5.0\42_Test_Your_Methods.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\refint\42_Test_Your_Methods.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\42_Test_Your_Methods.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\42_Test_Your_Methods\42_Test_Your_Methods\obj\Debug\net5.0\ref\42_Test_Your_Methods.dll

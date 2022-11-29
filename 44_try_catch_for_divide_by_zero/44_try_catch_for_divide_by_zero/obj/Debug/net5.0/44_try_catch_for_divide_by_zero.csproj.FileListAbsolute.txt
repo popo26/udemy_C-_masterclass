@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\bin\Debug\net5.0\44_try_catch_for_divide_by_zero.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\bin\Debug\net5.0\44_try_catch_for_divide_by_zero.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\bin\Debug\net5.0\44_try_catch_for_divide_by_zero.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\bin\Debug\net5.0\44_try_catch_for_divide_by_zero.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\bin\Debug\net5.0\44_try_catch_for_divide_by_zero.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\bin\Debug\net5.0\44_try_catch_for_divide_by_zero.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\refint\44_try_catch_for_divide_by_zero.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\44_try_catch_for_divide_by_zero.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\44_try_catch_for_divide_by_zero\44_try_catch_for_divide_by_zero\obj\Debug\net5.0\ref\44_try_catch_for_divide_by_zero.dll

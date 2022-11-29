@@ -10,6 +10,8 @@ The second one should be a whole number. Then use the Parse method in order to c
 Add each an output for each of the variables and write it onto the console. (WriteLine)
 Feel free to name your variables as you like, but keep in mind, that my result's variable names will differ to yours.
 Have fun :)
+
+REF: https://learn.microsoft.com/en-us/previous-versions/visualstudio/visual-studio-2008/ms228360(v=vs.90)?redirectedfrom=MSDN
  */
 
 
@@ -52,6 +54,11 @@ namespace _32_datatypes_and_variables
             myObj = new object();
             myStr = "I control my text";
             myDecimal = 0.4564654654654645654m;
+
+            // Parsing string to int
+            string numText = "16";
+            int myNumFromText = int.Parse(numText); //Same thing: Int32.Parse(numText)
+   
 
 
             Console.WriteLine(myByte);
