@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\bin\Debug\net5.0\41_greet_3_friends.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\bin\Debug\net5.0\41_greet_3_friends.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\bin\Debug\net5.0\41_greet_3_friends.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\bin\Debug\net5.0\41_greet_3_friends.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\bin\Debug\net5.0\41_greet_3_friends.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\bin\Debug\net5.0\41_greet_3_friends.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\refint\41_greet_3_friends.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\41_greet_3_friends.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\41_greet_3_friends\41_greet_3_friends\obj\Debug\net5.0\ref\41_greet_3_friends.dll

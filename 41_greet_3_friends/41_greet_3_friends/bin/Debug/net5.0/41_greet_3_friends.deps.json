@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "41_greet_3_friends/1.0.0": {
+        "runtime": {
+          "41_greet_3_friends.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "41_greet_3_friends/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

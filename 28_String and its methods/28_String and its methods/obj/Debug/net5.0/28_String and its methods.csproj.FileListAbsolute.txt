@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\bin\Debug\net5.0\28_String and its methods.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\bin\Debug\net5.0\28_String and its methods.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\bin\Debug\net5.0\28_String and its methods.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\bin\Debug\net5.0\28_String and its methods.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\bin\Debug\net5.0\28_String and its methods.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\bin\Debug\net5.0\28_String and its methods.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\refint\28_String and its methods.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\28_String and its methods.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\28_String and its methods\28_String and its methods\obj\Debug\net5.0\ref\28_String and its methods.dll

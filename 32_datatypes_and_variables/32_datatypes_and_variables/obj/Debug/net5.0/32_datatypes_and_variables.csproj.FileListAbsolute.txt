@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\bin\Debug\net5.0\32_datatypes_and_variables.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\bin\Debug\net5.0\32_datatypes_and_variables.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\bin\Debug\net5.0\32_datatypes_and_variables.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\bin\Debug\net5.0\32_datatypes_and_variables.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\bin\Debug\net5.0\32_datatypes_and_variables.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\bin\Debug\net5.0\32_datatypes_and_variables.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\refint\32_datatypes_and_variables.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\32_datatypes_and_variables.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\32_datatypes_and_variables\32_datatypes_and_variables\obj\Debug\net5.0\ref\32_datatypes_and_variables.dll
