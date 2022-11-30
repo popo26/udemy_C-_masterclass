@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\bin\Debug\net5.0\55_If_statements2.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\bin\Debug\net5.0\55_If_statements2.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\bin\Debug\net5.0\55_If_statements2.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\bin\Debug\net5.0\55_If_statements2.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\bin\Debug\net5.0\55_If_statements2.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\bin\Debug\net5.0\55_If_statements2.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\refint\55_If_statements2.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\55_If_statements2.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\55_If_statements2\55_If_statements2\obj\Debug\net5.0\ref\55_If_statements2.dll

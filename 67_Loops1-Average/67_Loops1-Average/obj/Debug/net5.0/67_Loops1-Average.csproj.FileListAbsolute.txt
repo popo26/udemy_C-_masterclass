@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\bin\Debug\net5.0\67_Loops1-Average.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\bin\Debug\net5.0\67_Loops1-Average.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\bin\Debug\net5.0\67_Loops1-Average.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\bin\Debug\net5.0\67_Loops1-Average.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\bin\Debug\net5.0\67_Loops1-Average.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\bin\Debug\net5.0\67_Loops1-Average.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\refint\67_Loops1-Average.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\67_Loops1-Average.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\67_Loops1-Average\67_Loops1-Average\obj\Debug\net5.0\ref\67_Loops1-Average.dll
