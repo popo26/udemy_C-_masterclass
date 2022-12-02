@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\bin\Debug\net5.0\101_Hashtables.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\bin\Debug\net5.0\101_Hashtables.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\bin\Debug\net5.0\101_Hashtables.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\bin\Debug\net5.0\101_Hashtables.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\bin\Debug\net5.0\101_Hashtables.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\bin\Debug\net5.0\101_Hashtables.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\refint\101_Hashtables.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\101_Hashtables.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\101_Hashtables\101_Hashtables\obj\Debug\net5.0\ref\101_Hashtables.dll
