@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\bin\Debug\net5.0\89_tictactoe.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\bin\Debug\net5.0\89_tictactoe.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\bin\Debug\net5.0\89_tictactoe.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\bin\Debug\net5.0\89_tictactoe.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\bin\Debug\net5.0\89_tictactoe.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\bin\Debug\net5.0\89_tictactoe.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\refint\89_tictactoe.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\89_tictactoe.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\89_tictactoe\89_tictactoe\obj\Debug\net5.0\ref\89_tictactoe.dll

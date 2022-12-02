@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\bin\Debug\net5.0\92_jagged_arrays.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\bin\Debug\net5.0\92_jagged_arrays.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\bin\Debug\net5.0\92_jagged_arrays.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\bin\Debug\net5.0\92_jagged_arrays.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\bin\Debug\net5.0\92_jagged_arrays.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\bin\Debug\net5.0\92_jagged_arrays.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\refint\92_jagged_arrays.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\92_jagged_arrays.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\92_jagged_arrays\92_jagged_arrays\obj\Debug\net5.0\ref\92_jagged_arrays.dll

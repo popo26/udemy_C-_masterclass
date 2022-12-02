@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "93_using_arrays_as_parameters/1.0.0": {
+        "runtime": {
+          "93_using_arrays_as_parameters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "93_using_arrays_as_parameters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\bin\Debug\net5.0\93_using_arrays_as_parameters.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\bin\Debug\net5.0\93_using_arrays_as_parameters.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\bin\Debug\net5.0\93_using_arrays_as_parameters.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\bin\Debug\net5.0\93_using_arrays_as_parameters.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\bin\Debug\net5.0\93_using_arrays_as_parameters.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\bin\Debug\net5.0\93_using_arrays_as_parameters.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\refint\93_using_arrays_as_parameters.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\93_using_arrays_as_parameters.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\93_using_arrays_as_parameters\93_using_arrays_as_parameters\obj\Debug\net5.0\ref\93_using_arrays_as_parameters.dll
