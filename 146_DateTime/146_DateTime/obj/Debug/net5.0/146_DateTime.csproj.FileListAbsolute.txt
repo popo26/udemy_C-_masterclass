@@ -1,0 +1,16 @@
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\bin\Debug\net5.0\146_DateTime.exe
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\bin\Debug\net5.0\146_DateTime.deps.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\bin\Debug\net5.0\146_DateTime.runtimeconfig.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\bin\Debug\net5.0\146_DateTime.runtimeconfig.dev.json
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\bin\Debug\net5.0\146_DateTime.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\bin\Debug\net5.0\146_DateTime.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.csproj.AssemblyReference.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.AssemblyInfoInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.AssemblyInfo.cs
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\refint\146_DateTime.dll
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.pdb
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\146_DateTime.genruntimeconfig.cache
+C:\Users\Ai\Documents\udemy_c#_masterclass\challenges\146_DateTime\146_DateTime\obj\Debug\net5.0\ref\146_DateTime.dll
